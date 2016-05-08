@@ -65,7 +65,9 @@ nav ul li {
     display:block;  
 }
 
-
+.a {
+    text-align: center;
+}
 
 a:link {
     color:#414142;
